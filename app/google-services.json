@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844333558503",
+    "firebase_url": "https://findyourtoilet-644eb.firebaseio.com",
+    "project_id": "findyourtoilet-644eb",
+    "storage_bucket": "findyourtoilet-644eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844333558503:android:10c7b78f01e74c7d",
+        "android_client_info": {
+          "package_name": "com.example.findyourtoilet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844333558503-l3u1cldhg6g5bni8p5dafrrd9pjh82s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findyourtoilet",
+            "certificate_hash": "ebcb998dc39a96de9e014b36d2ec76a657e5ef6d"
+          }
+        },
+        {
+          "client_id": "844333558503-damul3p8p80421oof9ovj5nkkvop7q6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFyo3hCxO-wf1PFzODCIrubdL33_v4p-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844333558503-damul3p8p80421oof9ovj5nkkvop7q6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
